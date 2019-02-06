@@ -17,7 +17,7 @@ setup(name='pke',
           'scipy',
           'spacy',
           'six',
-          'sklearn',
+          'scikit-learn',
           'unidecode',
           'future'
       ],

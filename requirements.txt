@@ -4,6 +4,6 @@ nltk
 networkx
 numpy
 scipy
-sklearn
+scikit-learn
 unidecode
 future

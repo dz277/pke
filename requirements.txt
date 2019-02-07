@@ -3,6 +3,7 @@ nltk
 networkx
 numpy
 scipy
+spacy
 scikit-learn
 unidecode
 future
